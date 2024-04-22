@@ -20,7 +20,7 @@ package whisk
 import (
 	"errors"
 	"fmt"
-	"github.com/neerajas-group/openwhisk-client-go/wski18n"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/wski18n"
 	"net/http"
 	"net/url"
 )
