@@ -21,7 +21,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"github.com/neerajas-group/openwhisk-client-go/wski18n"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/wski18n"
 	"io/ioutil"
 	"net/url"
 	"os"
