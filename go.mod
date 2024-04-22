@@ -1,4 +1,4 @@
-module github.com/SysML-Group-8-SP23/openwhisk-client-go 
+module github.com/SysML-Group-8-SP23/openwhisk-client-go
 
 go 1.15
 

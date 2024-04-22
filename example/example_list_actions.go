@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/apache/openwhisk-client-go/whisk"
+	"github.com/SysML-Group-8-SP23/openwhisk-client-go/whisk"
 )
 
 func main() {
