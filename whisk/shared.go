@@ -99,5 +99,5 @@ type Limits struct {
 	Logsize     *int `json:"logs,omitempty"`
 	Cpu			*int `json:"cpu,omitempty"`
 	Concurrency *int `json:"concurrency,omitempty"`
-	Bandwidth   *int `json:"network,omitempty"`
+	Bandwidth   *int `json:"bandwidth,omitempty"`
 }
